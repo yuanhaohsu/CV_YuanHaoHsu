@@ -1,0 +1,75 @@
+
+
+@media print {
+    body{
+        width: 21cm;
+        height: 29.7cm;
+        margin: 30mm 45mm 30mm 45mm; 
+        /* change the margins as you want them to be. */
+   } 
+}
+.jumbotron{
+    box-shadow: 10px 5px 5px  black;
+}
+
+#pagec {
+    
+    margin-top:16px;
+    right: 0;
+    left: 0;
+    margin-right: auto;
+    margin-left: auto;
+
+   
+   
+}
+
+#leftc {
+    border: 1px solid grey;
+    background-color: white;
+    color: black;
+    height: 900px;
+    width: 250px;
+    box-shadow: 10px 5px 5px 5px black;
+}
+
+.i {
+    margin-right: 16px;
+    font-size: 18px;
+   
+}
+
+#WE{
+    padding-top: 19px;
+    padding-bottom: 16px;
+    box-shadow: 10px 5px 5px darkgray;
+    border-bottom: 1px solid blue;
+}
+
+#GE{
+    box-shadow: 10px 5px 5px darkgray; 
+    
+}
+
+#h2_1 {
+    padding-top: 16px; padding-bottom: 16px; box-shadow: 10px 5px 5px darkgray; border-bottom: 1px solid red;
+}
+
+#work{
+    color: black; margin-bottom: 16px; box-shadow: 10px 5px 5px darkgray;
+}
+
+#GWE{
+    left:50px;
+}
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:white;
+  }
+
+  #aboutme{
+    overflow: hidden;
+    display:block 
+  }
